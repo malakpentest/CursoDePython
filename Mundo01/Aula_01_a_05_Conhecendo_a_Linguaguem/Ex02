@@ -1,4 +1,4 @@
-dia=input("qual e o dia em que você nasceu?")
-mes=input("Qual o mês em que vc nasceu?")
-ano=input("Qual foi o ano em que você nasceu?")
-print("concluido com isso agora ja sei que você nasceu no dia",dia," do mes",mes,"do ano",ano)
+#Crie um script Python que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado
+
+entrada = input("Digite seu nome: \n")
+print("Olá, {}! Prazer em conhecer você!".format(entrada))
