@@ -6,9 +6,9 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 ## Anotações importantes
 
-- Anotações da aula 20, sobre funções (Parte 1) em Python: [notas.md]()
+- Anotações da aula 20, sobre funções (Parte 1) em Python: [notas.md](https://github.com/malakpentest/CursoDePython/blob/main/Mundo03/Aula20/notas.md)
 
-- Anotações da aula 21, sobre funções (Parte 2) em Python: [notas.md]()
+- Anotações da aula 21, sobre funções (Parte 2) em Python: [notas.md](https://github.com/malakpentest/CursoDePython/blob/main/Mundo03/Aula21/notas.md)
 
 ## Lista de exercícios resolvidos
 
