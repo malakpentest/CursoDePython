@@ -1,7 +1,0 @@
-# Crie um script Python que soma os dois numeros e mostre uma mensagem com resultado
-
-import math
-n1=int(input("escreva o primeiro numero"))
-n2=int(input("escreva o segundo numero"))
-s=n1+n2
-print("esse e o resultado da soma de 2 numeros, que vc digitou",s
