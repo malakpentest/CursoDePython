@@ -107,13 +107,13 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 - Exercício Python #063 - [Sequência de Fibonacci v1.0](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_14/Ex63.py)
 - Exercício Python #064 - [Tratando vários valores v1.0](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_14/Ex64.py)
 - Exercício Python #065 - [Maior e menor valores](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_14/Ex65.py)
-- Exercício Python #066 - [Vários números com flag](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_14/Ex66.py)
-- Exercício Python #067 - [Tabuada v3.0](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_14/Ex67.py)
-- Exercício Python #068 - [Jogo do par ou ímpar](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_14/Ex68.py)
-- Exercício Python #069 - [Análise de dados do grupo](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_14/Ex69.py)
-- Exercício Python #070 - [Estatística de produtos](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_14/Ex70.py)
-- Exercício Python #071 - [Simulador de caixa eletrônico](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_14/Ex71.py)
-- Exercício Python #071.1 - [Simulador de caixa eletrônico](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_14/Ex71.1.py)
+- Exercício Python #066 - [Vários números com flag](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_15/Ex66.py)
+- Exercício Python #067 - [Tabuada v3.0](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_15/Ex67.py)
+- Exercício Python #068 - [Jogo do par ou ímpar](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_15/Ex68.py)
+- Exercício Python #069 - [Análise de dados do grupo](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_15/Ex69.py)
+- Exercício Python #070 - [Estatística de produtos](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_15/Ex70.py)
+- Exercício Python #071 - [Simulador de caixa eletrônico](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_15/Ex71.py)
+- Exercício Python #071.1 - [Simulador de caixa eletrônico](https://github.com/malakpentest/CursoDePython/blob/main/Mundo02/Aula_16/Ex71.1.py)
  
 
 ### Mundo 3: estruturas compostas
