@@ -125,7 +125,7 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 - Exercício Python #074 - [Maior e menor valores em tupla](https://github.com/malakpentest/CursoDePython/blob/main/Mundo03/Aula16/Ex74.py)
 - Exercício Python #075 - [Análise de dados em uma tupla](https://github.com/malakpentest/CursoDePython/blob/main/Mundo03/Aula16/Ex75.py)
 - Exercício Python #076 - [Lista de preços com tupla](https://github.com/malakpentest/CursoDePython/blob/main/Mundo03/Aula16/Ex76.py)
-- Exercício Python #077 - [Contando vogais em tupla](https://github.com/malakpentest/CursoDePython/blob/main/Mundo03/Aula_16/Ex77.py)
+- Exercício Python #077 - [Contando vogais em tupla](https://github.com/malakpentest/CursoDePython/blob/main/Mundo03/Aula16/Ex77.py)
 
 #### Listas
 
